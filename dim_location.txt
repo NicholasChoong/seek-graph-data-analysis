@@ -1,0 +1,66 @@
+PK	city	latitude	longitude	state
+1	ACT	-35.4735	149.0124	Australian Capital Territory
+2	Adelaide	-34.9289	138.6011	South Australia
+3	Adelaide Hills & Barossa	-34.9063	138.8397	South Australia
+4	Albany & Great Southern	-35.0228	117.8814	Western Australia
+5	Albury Wodonga & Murray	-36.1583	146.8986	New South Wales
+6	Alice Springs & Central Australia	-23.7	133.8667	Northern Territory
+7	Bairnsdale & Gippsland	-37.8333	147.6167	Victoria
+8	Ballarat & Central Highlands	-37.55	143.85	Victoria
+9	Bendigo, Goldfields & Macedon Ranges	-36.75	144.2667	Victoria
+10	Blue Mountains & Central West	-33.41	150.3037	New South Wales
+11	Brisbane	-27.4678	153.0281	Queensland
+12	Broome & Kimberley	-17.9619	122.2361	Western Australia
+13	Bunbury & South West	-33.3333	115.6333	Western Australia
+14	Bundaberg & Wide Bay Burnett	-24.85	152.35	Queensland
+15	Cairns & Far North	-16.9303	145.7703	Queensland
+16	Central & South East TAS	-33.41	150.3037	Tasmania
+17	Coffs Harbour & North Coast	-30.3022	153.1189	New South Wales
+18	Coober Pedy & Outback SA	-29.0135	134.7544	South Australia
+19	Darwin	-12.4381	130.8411	Northern Territory
+20	Devonport & North West	-41.1806	146.3464	Tasmania
+21	Dubbo & Central NSW	-32.2569	148.6011	New South Wales
+22	Far West & North Central NSW	-30.5513	134.7544	South Australia
+23	Fleurieu Peninsula & Kangaroo Island	-35.5	138.5	South Australia
+24	Geelong & Great Ocean Road	-38.15	144.35	Victoria
+25	Geraldton, Gascoyne & Midwest	-28.7744	114.6089	Western Australia
+26	Gladstone & Central QLD	-23.8489	151.2625	Queensland
+27	Gold Coast	-28.0167	153.4	Queensland
+28	Gosford & Central Coast	-33.4233	151.3414	New South Wales
+29	Goulburn & Southern Tablelands	-34.7547	149.6186	New South Wales
+30	Hervey Bay & Fraser Coast	-25.2853	152.8728	Queensland
+31	Hobart	-42.8806	147.325	Tasmania
+32	Horsham & Grampians	-36.7167	142.2	Victoria
+33	Kalgoorlie, Goldfields & Esperance	-30.7489	121.4658	Western Australia
+34	Katherine & Northern Australia	-14.452	132.2699	Northern Territory
+35	Launceston & North East	-41.4419	147.145	Tasmania
+36	Lismore & Far North Coast	-28.8167	153.2833	New South Wales
+37	Mackay & Coalfields	-21.1411	149.1861	Queensland
+38	Mandurah & Peel	-32.5289	115.7231	Western Australia
+39	Melbourne	-37.8136	144.9631	Victoria
+40	Mildura & Murray	-34.1889	142.1583	Victoria
+41	Mornington Peninsula & Bass Coast	-38.2854	145.0934	Victoria
+42	Mt Gambier & Limestone Coast	-37.8256	140.7712	South Australia
+43	Mt Isa & Western QLD	-20.7264	139.493	Queensland
+44	Newcastle, Maitland & Hunter	-32.9167	151.75	New South Wales
+45	Northam & Wheatbelt	-31.6531	116.6661	Western Australia
+46	Perth	-41.5731	147.1714	Tasmania
+47	Port Hedland, Karratha & Pilbara	-20.7364	116.8464	Western Australia
+48	Port Macquarie & Mid North Coast	-31.4333	152.9	New South Wales
+49	Richmond & Hawkesbury	-33.5983	150.7511	New South Wales
+50	Riverland & Murray Mallee	-34.3143	139.8547	South Australia
+51	Rockhampton & Capricorn Coast	-23.375	150.5117	Queensland
+52	Shepparton & Goulburn Valley	-36.3821	145.4072	Victoria
+53	Somerset & Lockyer	-41.05	145.8333	Tasmania
+54	Sunshine Coast	-26.65	153.0667	Queensland
+55	Sydney	-33.865	151.2094	New South Wales
+56	Tamworth & North West NSW	-31.0833	150.9167	New South Wales
+57	Toowoomba & Darling Downs	-27.5667	151.95	Queensland
+58	Townsville & Northern QLD	-19.2564	146.8183	Queensland
+59	Traralgon & La Trobe Valley	-38.1958	146.5403	Victoria
+60	Tumut, Southern Highlands & Snowy	-35.3039	148.2233	New South Wales
+61	Wagga Wagga & Riverina	-35.1189	147.3689	New South Wales
+62	Whyalla & Eyre Peninsula	-33.0333	137.5667	South Australia
+63	Wollongong, Illawarra & South Coast	-34.4331	150.8831	New South Wales
+64	Yarra Valley & High Country	-37.7451	145.7134	Victoria
+65	Yorke Peninsula & Clare Valley	-34.6794	137.6849	South Australia
